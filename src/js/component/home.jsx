@@ -15,8 +15,9 @@ const Home = () => {
 			<div className="vh-100">
 				<Jumbotron />
 				<Card />
+				<Footer />
 			</div>
-			<Footer />
+
 		</>
 	);
 };
